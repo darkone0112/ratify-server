@@ -1,0 +1,4 @@
+# Firebase service account key
+serviceAccountKey.json
+generate_test_token.py
+ratify_backend/keys/
